@@ -17,7 +17,7 @@ int main()
 		}
 		else if (n < arr[mid])
 		{
-			right = mid;
+			right = mid-1;
 		}
 		else
 			break;
