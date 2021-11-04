@@ -1,0 +1,8 @@
+﻿  动态顺序表.c
+C:\Users\wqy\Desktop\我的文件\testc\动态顺序表\动态顺序表\动态顺序表.c(39,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\wqy\Desktop\我的文件\testc\动态顺序表\动态顺序表\动态顺序表.c(47,2): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\wqy\Desktop\我的文件\testc\动态顺序表\动态顺序表\动态顺序表.c(48,13): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\wqy\Desktop\我的文件\testc\动态顺序表\动态顺序表\动态顺序表.c(57,2): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\wqy\Desktop\我的文件\testc\动态顺序表\动态顺序表\动态顺序表.c(84,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\wqy\Desktop\我的文件\testc\动态顺序表\动态顺序表\动态顺序表.c(100,20): warning C4018: “<”: 有符号/无符号不匹配
+  动态顺序表.vcxproj -> C:\Users\wqy\Desktop\我的文件\testc\动态顺序表\Debug\动态顺序表.exe
